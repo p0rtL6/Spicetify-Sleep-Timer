@@ -6,7 +6,9 @@
 ---
 
 Add `src/SleepTimer.js` to your extensions folder
+
 Enable it with `spicetify config extensions SleepTimer.js`
+
 To apply `spicetify apply`
 
 ---
